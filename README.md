@@ -1,4 +1,4 @@
- <h4 align="center">Anonymous Reporting App</h4>
+ <h2 align="center"> CrimeAlert- Anonymous Reporting App</h2>
 
    <div align="center">
      A secure platform for anonymous incident reporting
