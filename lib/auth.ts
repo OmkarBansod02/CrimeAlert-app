@@ -3,6 +3,7 @@ import CredentialsProvider from "next-auth/providers/credentials";
 import prisma from "./prisma";
 import bcrypt from "bcryptjs";
 
+
 export const authOptions: AuthOptions = {
   providers: [
     CredentialsProvider({
@@ -47,7 +48,7 @@ export const authOptions: AuthOptions = {
   callbacks: {
     async jwt({ token, user }) {
       if (user) {
-        token.role = user.role;
+        token.role = user.role
       }
       return token;
     },
