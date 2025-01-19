@@ -43,7 +43,7 @@ Make sure you have the following installed:
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd anonymous-reporting-system
+cd CrimeAlert-app
 
 # Install dependencies
 npm install
