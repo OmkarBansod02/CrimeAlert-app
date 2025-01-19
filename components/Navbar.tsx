@@ -55,25 +55,28 @@ export default function Navbar() {
               >
                 How It Works
               </Link>
-              <Link
-                href="/resources"
-                className="text-sm text-zinc-400 hover:text-white transition-colors"
-              >
-                Resources
-              </Link>
             </div>
 
             {/* Emergency Button */}
             <div className="flex items-center space-x-4">
               <Link
-                href="/contact"
+                href="/"
                 className="hidden md:block text-sm text-zinc-400 hover:text-white transition-colors"
               >
                 Contact
               </Link>
+              <button
+                
+                className="px-4 py-2 text-sm font-medium text-neutral-300 bg-neutral-900 rounded-lg hover:bg-neutral-800 border border-neutral-800 transition-all hover:border-neutral-700"
+              >
+                <Link
+                  href="/auth/signup">
+                    Dashboard 
+                </Link>
+              </button>
               <button className="group flex h-9 items-center gap-2 rounded-full bg-red-500/10 pl-4 pr-5 text-sm font-medium text-red-500 ring-1 ring-inset ring-red-500/20 transition-all hover:bg-red-500/20">
                 <span className="h-1.5 w-1.5 rounded-full bg-red-500 animate-pulse" />
-                Emergency: 911
+                Emergency: 112
               </button>
 
               {/* Mobile Menu Button */}
