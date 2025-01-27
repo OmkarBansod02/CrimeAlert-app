@@ -60,7 +60,7 @@ export default function Navbar() {
             {/* Emergency Button */}
             <div className="flex items-center space-x-4">
               <Link
-                href="/"
+                href="https://112.gov.in/" target="_blank"
                 className="hidden md:block text-sm text-zinc-400 hover:text-white transition-colors"
               >
                 Contact
