@@ -25,7 +25,7 @@ This is a anonymous reporting system built with Next.js 14, designed to provide 
 - NextAuth.js for Authentication
 - Tailwind CSS
 - React Hook Form
-- GeminiAI
+- Google GeminiAI
 - BCrypt for Password Encryption
 
 ## <a name="quick-start">🤸 Quick Start</a>
