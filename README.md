@@ -19,7 +19,7 @@ This is a anonymous reporting system built with Next.js 14, designed to provide 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js 14
+- NextJS 14 
 - TypeScript
 - Prisma with Neon Database
 - NextAuth.js for Authentication
