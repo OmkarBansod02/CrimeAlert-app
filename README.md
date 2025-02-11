@@ -24,8 +24,8 @@ This is a anonymous reporting system built with Next.js 14, designed to provide 
 - Prisma with Neon Database
 - NextAuth.js for Authentication
 - Tailwind CSS
-- React Hook Form
-- Google GeminiAI
+- React Hook 
+- Google Gemini
 - BCrypt for Password Encryption
 
 ## <a name="quick-start">🤸 Quick Start</a>
