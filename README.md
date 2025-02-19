@@ -15,7 +15,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This is a anonymous reporting system built with Next.js 14, designed to provide a secure platform for reporting incidents while maintaining complete anonymity.
+This is a AI Based anonymous reporting system built with Next.js 14, designed to provide a secure platform for reporting incidents while maintaining complete anonymity.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
