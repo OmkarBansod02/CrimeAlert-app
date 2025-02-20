@@ -1,7 +1,7 @@
  <h2 align="center"> CrimeAlert- Anonymous Reporting App</h2>
 
    <div align="center">
-     A secure platform for anonymous incident reporting
+     A secure platform for anonymous incident reporting with AI 
     </div>
 </div>
 ## 📋 <a name="table">Table of Contents</a>
