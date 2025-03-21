@@ -21,9 +21,9 @@ This AI-Powered anonymous reporting system, built with NEXT JS 14, ensures a sec
 - TypeScript
 - Prisma with Neon Database
 - NextAuth.js for Authentication
-- Tailwind CSS
+- Tailwind CSS 
 - React Hook 
-- Google Gemini
+- Google Generative Ai
 - BCrypt for Password Encryption
 
 ## <a name="quick-start">🤸 Quick Start</a>
