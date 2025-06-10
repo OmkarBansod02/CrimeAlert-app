@@ -23,7 +23,7 @@ Built with Next.js 14, this AI-powered anonymous reporting system provides a hig
 - NextAuth.js for Authentication
 - Tailwind CSS  
 - React Hook 
-- Google Generative AI 
+- Google Generative-AI 
 - BCrypt for Password Encryption
 
 ## <a name="quick-start">🤸 Quick Start</a>
