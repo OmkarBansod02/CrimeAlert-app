@@ -14,7 +14,7 @@
 6. 🚀 [Deployment](#deployment)
 
 ## <a name="introduction">🤖 Introduction</a>
-Built with Next.js 14, this AI-powered anonymous reporting system provides a highly secure and confidential platform, guaranteeing complete anonymity for individuals reporting incidents.
+Built with Next.js 14, this AI-powered anonymous reporting system provides a highly secure and confidential platform, Guaranteeing complete anonymity for individuals reporting incidents.
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - NextJS 14 
